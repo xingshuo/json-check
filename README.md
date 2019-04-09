@@ -3,8 +3,8 @@ JsonCheck
     检查json内容是否符合预期的一种解决方案
 
 设计思路与流程
-----
-    ![flowchart](https://github.com/xingshuo/json-check/blob/master/flowchart.png)
+-----
+![flowchart](https://github.com/xingshuo/json-check/blob/master/flowchart.png)
 
 支持平台
 -----
