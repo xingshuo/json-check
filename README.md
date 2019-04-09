@@ -12,9 +12,9 @@ JsonCheck
 
 依赖库(对应deps目录下文件)
 -----
-    http://luabinaries.sourceforge.net/download.html    lua53.dll,lua.exe为下载的对应压缩包中文件
-    https://github.com/mpx/lua-cjson    cjson.dll为修改Makefile后利用mingw编译的windows 64位动态库
-    https://github.com/LuaDist/lpeg     lpeg.dll为修改Makefile后利用mingw编译的windows 64位动态库
+http://luabinaries.sourceforge.net/download.html    lua53.dll,lua.exe为下载的对应压缩包中文件
+https://github.com/mpx/lua-cjson    cjson.dll为修改Makefile后利用mingw编译的windows 64位动态库
+https://github.com/LuaDist/lpeg     lpeg.dll为修改Makefile后利用mingw编译的windows 64位动态库
 
 安装
 -----
