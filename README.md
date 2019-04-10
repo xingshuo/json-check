@@ -25,4 +25,5 @@ https://github.com/LuaDist/lpeg     lpeg.dll为修改Makefile后利用mingw编�
 
 运行测试用例
 -----
-    deps\lua.exe examples\main.lua
+    deps\lua.exe examples\main.lua      #Win CMD
+    deps/lua.exe examples/main.lua      #gitbash
