@@ -6,6 +6,9 @@ JsonCheck
 -----
 ![flowchart](https://github.com/xingshuo/json-check/blob/master/flowchart.png)
 
+[TD文件格式说明](https://github.com/xingshuo/json-check/blob/master/TDdoc.md)
+-----
+
 支持平台
 -----
     Windows 64bit
